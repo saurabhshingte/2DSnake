@@ -24,7 +24,7 @@ class GraphStart extends Frame
 		g1.drawLine(130,95,130,113);
 		g1.drawArc(113,115,35,20,0,-180);
 	}
-	p
+	
     
 
     GraphStart()
